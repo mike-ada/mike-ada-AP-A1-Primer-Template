@@ -1,6 +1,5 @@
 # Primer Portfolio
-
-
+  
 ## Section 1 - Primer Challenges
 ### Primer 1 - Fahrenheit / Centigrade Conversion
 This challenge requires us to allow a user to enter a value before selecting whether to convert it from Fahrenheit to Centigrade or Centigrade to Fahrenheit.  As part of the initial design the conversion algorithms were needed for both calculations. 
@@ -21,14 +20,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac elit in magn
 
 ..
 ..
-
-
-
+  
+  
+  
 ## Section 2 - Programming Paradigms
 ### Programming Paradigms
 Simply put, a programming paradigm, for example, procedural, object-oriented, functional, structured, declarative, imperative and event driven can be described as a specific approach used when trying to solve a problem.  Although many programming languages can (and do) support multiple paradigms this discussion will focus more specifically on the possible benefits with examples of the potential differences and similarities of five from the above list. These are ...
-
-
+  
+  
 ## Section 3 - Continued Professional Development
 ### Benefits of becoming a Polyglot Programmer
 Vestibulum vitae semper sem. Duis leo leo, suscipit at felis non, pellentesque varius massa. Sed sit amet orci nibh. Morbi scelerisque faucibus elit, vitae mollis turpis finibus eget. In convallis euismod nunc non imperdiet. Duis ultricies pulvinar lorem, sed molestie nunc porta at. Aenean arcu ante, efficitur nec felis sed, feugiat iaculis turpis. Vestibulum eu elementum diam. Quisque nec tortor auctor, scelerisque ante vitae, fringilla tellus.
